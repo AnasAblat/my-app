@@ -1,2 +1,11 @@
 h1{
+    color: brown;
+    font-size: 40px;
+    margin-left: 10px;
+}
+p{
+    margin-left: 10px;
+}
+input{
+    margin-left: 10px;
 }
